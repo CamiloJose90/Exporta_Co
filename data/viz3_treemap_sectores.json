@@ -1,0 +1,396 @@
+{
+  "años_disponibles": [
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "datos_por_año": {
+    "2011": {
+      "name": "Exportaciones 2011",
+      "children": [
+        {
+          "name": "Combustibles e industrias extractivas",
+          "value": 2177769.0,
+          "pct": 61.5
+        },
+        {
+          "name": "Manufacturas",
+          "value": 1241211.0,
+          "pct": 35.0
+        },
+        {
+          "name": "Agropecuarios, alimentos y bebidas",
+          "value": 123314.828125,
+          "pct": 3.5
+        },
+        {
+          "name": "Otros sectores",
+          "value": 140.83999633789062,
+          "pct": 0.0
+        }
+      ]
+    },
+    "2012": {
+      "name": "Exportaciones 2012",
+      "children": [
+        {
+          "name": "Combustibles e industrias extractivas",
+          "value": 1639126.875,
+          "pct": 56.79999923706055
+        },
+        {
+          "name": "Manufacturas",
+          "value": 1141859.0,
+          "pct": 39.5
+        },
+        {
+          "name": "Agropecuarios, alimentos y bebidas",
+          "value": 107190.4609375,
+          "pct": 3.700000047683716
+        },
+        {
+          "name": "Otros sectores",
+          "value": 129.6999969482422,
+          "pct": 0.0
+        }
+      ]
+    },
+    "2013": {
+      "name": "Exportaciones 2013",
+      "children": [
+        {
+          "name": "Combustibles e industrias extractivas",
+          "value": 1737594.5,
+          "pct": 59.400001525878906
+        },
+        {
+          "name": "Manufacturas",
+          "value": 1076464.125,
+          "pct": 36.79999923706055
+        },
+        {
+          "name": "Agropecuarios, alimentos y bebidas",
+          "value": 110448.9609375,
+          "pct": 3.799999952316284
+        },
+        {
+          "name": "Otros sectores",
+          "value": 108.0,
+          "pct": 0.0
+        }
+      ]
+    },
+    "2014": {
+      "name": "Exportaciones 2014",
+      "children": [
+        {
+          "name": "Combustibles e industrias extractivas",
+          "value": 2128466.75,
+          "pct": 63.0
+        },
+        {
+          "name": "Manufacturas",
+          "value": 1112366.375,
+          "pct": 32.900001525878906
+        },
+        {
+          "name": "Agropecuarios, alimentos y bebidas",
+          "value": 138877.171875,
+          "pct": 4.099999904632568
+        },
+        {
+          "name": "Otros sectores",
+          "value": 121.11000061035156,
+          "pct": 0.0
+        }
+      ]
+    },
+    "2015": {
+      "name": "Exportaciones 2015",
+      "children": [
+        {
+          "name": "Combustibles e industrias extractivas",
+          "value": 1015562.5,
+          "pct": 53.599998474121094
+        },
+        {
+          "name": "Manufacturas",
+          "value": 790415.0625,
+          "pct": 41.70000076293945
+        },
+        {
+          "name": "Agropecuarios, alimentos y bebidas",
+          "value": 87592.7734375,
+          "pct": 4.599999904632568
+        },
+        {
+          "name": "Otros sectores",
+          "value": 107.05000305175781,
+          "pct": 0.0
+        }
+      ]
+    },
+    "2016": {
+      "name": "Exportaciones 2016",
+      "children": [
+        {
+          "name": "Manufacturas",
+          "value": 241574.234375,
+          "pct": 54.29999923706055
+        },
+        {
+          "name": "Combustibles e industrias extractivas",
+          "value": 179002.203125,
+          "pct": 40.20000076293945
+        },
+        {
+          "name": "Agropecuarios, alimentos y bebidas",
+          "value": 24243.0,
+          "pct": 5.400000095367432
+        },
+        {
+          "name": "Otros sectores",
+          "value": 45.689998626708984,
+          "pct": 0.0
+        }
+      ]
+    },
+    "2017": {
+      "name": "Exportaciones 2017",
+      "children": [
+        {
+          "name": "Combustibles e industrias extractivas",
+          "value": 112142.0234375,
+          "pct": 53.70000076293945
+        },
+        {
+          "name": "Manufacturas",
+          "value": 87642.796875,
+          "pct": 41.900001525878906
+        },
+        {
+          "name": "Agropecuarios, alimentos y bebidas",
+          "value": 9116.5498046875,
+          "pct": 4.400000095367432
+        },
+        {
+          "name": "Otros sectores",
+          "value": 38.02000045776367,
+          "pct": 0.0
+        }
+      ]
+    },
+    "2018": {
+      "name": "Exportaciones 2018",
+      "children": [
+        {
+          "name": "Combustibles e industrias extractivas",
+          "value": 24378.3203125,
+          "pct": 58.20000076293945
+        },
+        {
+          "name": "Manufacturas",
+          "value": 15357.150390625,
+          "pct": 36.599998474121094
+        },
+        {
+          "name": "Agropecuarios, alimentos y bebidas",
+          "value": 2156.909912109375,
+          "pct": 5.099999904632568
+        },
+        {
+          "name": "Otros sectores",
+          "value": 12.390000343322754,
+          "pct": 0.0
+        }
+      ]
+    },
+    "2019": {
+      "name": "Exportaciones 2019",
+      "children": [
+        {
+          "name": "Combustibles e industrias extractivas",
+          "value": 1426473.625,
+          "pct": 55.20000076293945
+        },
+        {
+          "name": "Manufacturas",
+          "value": 1047572.25,
+          "pct": 40.5
+        },
+        {
+          "name": "Agropecuarios, alimentos y bebidas",
+          "value": 111476.8984375,
+          "pct": 4.300000190734863
+        },
+        {
+          "name": "Otros sectores",
+          "value": 180.4199981689453,
+          "pct": 0.0
+        }
+      ]
+    },
+    "2020": {
+      "name": "Exportaciones 2020",
+      "children": [
+        {
+          "name": "Manufacturas",
+          "value": 839089.6875,
+          "pct": 53.70000076293945
+        },
+        {
+          "name": "Combustibles e industrias extractivas",
+          "value": 633223.125,
+          "pct": 40.5
+        },
+        {
+          "name": "Agropecuarios, alimentos y bebidas",
+          "value": 89922.203125,
+          "pct": 5.800000190734863
+        },
+        {
+          "name": "Otros sectores",
+          "value": 71.69999694824219,
+          "pct": 0.0
+        }
+      ]
+    },
+    "2021": {
+      "name": "Exportaciones 2021",
+      "children": [
+        {
+          "name": "Combustibles e industrias extractivas",
+          "value": 1654852.0,
+          "pct": 50.400001525878906
+        },
+        {
+          "name": "Manufacturas",
+          "value": 1458337.875,
+          "pct": 44.400001525878906
+        },
+        {
+          "name": "Agropecuarios, alimentos y bebidas",
+          "value": 171967.046875,
+          "pct": 5.199999809265137
+        },
+        {
+          "name": "Otros sectores",
+          "value": 156.1699981689453,
+          "pct": 0.0
+        }
+      ]
+    },
+    "2022": {
+      "name": "Exportaciones 2022",
+      "children": [
+        {
+          "name": "Combustibles e industrias extractivas",
+          "value": 2508750.25,
+          "pct": 59.0
+        },
+        {
+          "name": "Manufacturas",
+          "value": 1531653.5,
+          "pct": 36.0
+        },
+        {
+          "name": "Agropecuarios, alimentos y bebidas",
+          "value": 208593.6875,
+          "pct": 4.900000095367432
+        },
+        {
+          "name": "Otros sectores",
+          "value": 108.0,
+          "pct": 0.0
+        }
+      ]
+    },
+    "2023": {
+      "name": "Exportaciones 2023",
+      "children": [
+        {
+          "name": "Combustibles e industrias extractivas",
+          "value": 25647.0,
+          "pct": 51.5
+        },
+        {
+          "name": "Manufacturas",
+          "value": 20757.990234375,
+          "pct": 41.70000076293945
+        },
+        {
+          "name": "Agropecuarios, alimentos y bebidas",
+          "value": 3352.25,
+          "pct": 6.699999809265137
+        },
+        {
+          "name": "Otros sectores",
+          "value": 11.890000343322754,
+          "pct": 0.0
+        }
+      ]
+    },
+    "2024": {
+      "name": "Exportaciones 2024",
+      "children": [
+        {
+          "name": "Manufacturas",
+          "value": 23452.30078125,
+          "pct": 47.29999923706055
+        },
+        {
+          "name": "Combustibles e industrias extractivas",
+          "value": 22732.2109375,
+          "pct": 45.900001525878906
+        },
+        {
+          "name": "Agropecuarios, alimentos y bebidas",
+          "value": 3361.8798828125,
+          "pct": 6.800000190734863
+        },
+        {
+          "name": "Otros sectores",
+          "value": 10.130000114440918,
+          "pct": 0.0
+        }
+      ]
+    },
+    "2025": {
+      "name": "Exportaciones 2025",
+      "children": [
+        {
+          "name": "Manufacturas",
+          "value": 27346.970703125,
+          "pct": 54.5
+        },
+        {
+          "name": "Combustibles e industrias extractivas",
+          "value": 18514.73046875,
+          "pct": 36.900001525878906
+        },
+        {
+          "name": "Agropecuarios, alimentos y bebidas",
+          "value": 4325.330078125,
+          "pct": 8.600000381469727
+        },
+        {
+          "name": "Otros sectores",
+          "value": 11.170000076293945,
+          "pct": 0.0
+        }
+      ]
+    }
+  }
+}

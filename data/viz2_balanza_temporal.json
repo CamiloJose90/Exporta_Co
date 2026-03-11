@@ -1,0 +1,1442 @@
+[
+  {
+    "periodo": "2011-01",
+    "año": 2011,
+    "mes": 1,
+    "exportaciones_musd": 305739.8125,
+    "importaciones_musd": 3738.97998046875,
+    "balanza_musd": 302000.84375
+  },
+  {
+    "periodo": "2011-02",
+    "año": 2011,
+    "mes": 2,
+    "exportaciones_musd": 297532.03125,
+    "importaciones_musd": 3735.5400390625,
+    "balanza_musd": 293796.46875
+  },
+  {
+    "periodo": "2011-03",
+    "año": 2011,
+    "mes": 3,
+    "exportaciones_musd": 380955.625,
+    "importaciones_musd": 4516.22998046875,
+    "balanza_musd": 376439.40625
+  },
+  {
+    "periodo": "2011-04",
+    "año": 2011,
+    "mes": 4,
+    "exportaciones_musd": 343541.625,
+    "importaciones_musd": 4135.02978515625,
+    "balanza_musd": 339406.59375
+  },
+  {
+    "periodo": "2011-05",
+    "año": 2011,
+    "mes": 5,
+    "exportaciones_musd": 289921.8125,
+    "importaciones_musd": 4787.8701171875,
+    "balanza_musd": 285133.96875
+  },
+  {
+    "periodo": "2011-06",
+    "año": 2011,
+    "mes": 6,
+    "exportaciones_musd": 251705.34375,
+    "importaciones_musd": 4478.43017578125,
+    "balanza_musd": 247226.90625
+  },
+  {
+    "periodo": "2011-07",
+    "año": 2011,
+    "mes": 7,
+    "exportaciones_musd": 334396.6875,
+    "importaciones_musd": 4480.56005859375,
+    "balanza_musd": 329916.125
+  },
+  {
+    "periodo": "2011-08",
+    "año": 2011,
+    "mes": 8,
+    "exportaciones_musd": 273457.03125,
+    "importaciones_musd": 4709.39013671875,
+    "balanza_musd": 268747.625
+  },
+  {
+    "periodo": "2011-09",
+    "año": 2011,
+    "mes": 9,
+    "exportaciones_musd": 253818.046875,
+    "importaciones_musd": 4953.6298828125,
+    "balanza_musd": 248864.40625
+  },
+  {
+    "periodo": "2011-10",
+    "año": 2011,
+    "mes": 10,
+    "exportaciones_musd": 261009.6875,
+    "importaciones_musd": 4735.68017578125,
+    "balanza_musd": 256273.984375
+  },
+  {
+    "periodo": "2011-11",
+    "año": 2011,
+    "mes": 11,
+    "exportaciones_musd": 265869.4375,
+    "importaciones_musd": 5018.6298828125,
+    "balanza_musd": 260850.796875
+  },
+  {
+    "periodo": "2011-12",
+    "año": 2011,
+    "mes": 12,
+    "exportaciones_musd": 284488.40625,
+    "importaciones_musd": 4459.759765625,
+    "balanza_musd": 280028.65625
+  },
+  {
+    "periodo": "2012-01",
+    "año": 2012,
+    "mes": 1,
+    "exportaciones_musd": 254337.953125,
+    "importaciones_musd": 4396.0,
+    "balanza_musd": 249941.953125
+  },
+  {
+    "periodo": "2012-02",
+    "año": 2012,
+    "mes": 2,
+    "exportaciones_musd": 253881.875,
+    "importaciones_musd": 4533.35009765625,
+    "balanza_musd": 249348.515625
+  },
+  {
+    "periodo": "2012-03",
+    "año": 2012,
+    "mes": 3,
+    "exportaciones_musd": 306990.90625,
+    "importaciones_musd": 4941.77978515625,
+    "balanza_musd": 302049.125
+  },
+  {
+    "periodo": "2012-04",
+    "año": 2012,
+    "mes": 4,
+    "exportaciones_musd": 254238.375,
+    "importaciones_musd": 4390.16015625,
+    "balanza_musd": 249848.21875
+  },
+  {
+    "periodo": "2012-05",
+    "año": 2012,
+    "mes": 5,
+    "exportaciones_musd": 314367.59375,
+    "importaciones_musd": 5440.3701171875,
+    "balanza_musd": 308927.21875
+  },
+  {
+    "periodo": "2012-06",
+    "año": 2012,
+    "mes": 6,
+    "exportaciones_musd": 238384.796875,
+    "importaciones_musd": 5058.8701171875,
+    "balanza_musd": 233325.921875
+  },
+  {
+    "periodo": "2012-07",
+    "año": 2012,
+    "mes": 7,
+    "exportaciones_musd": 278229.5625,
+    "importaciones_musd": 5150.60009765625,
+    "balanza_musd": 273078.96875
+  },
+  {
+    "periodo": "2012-08",
+    "año": 2012,
+    "mes": 8,
+    "exportaciones_musd": 225128.09375,
+    "importaciones_musd": 5192.2001953125,
+    "balanza_musd": 219935.90625
+  },
+  {
+    "periodo": "2012-09",
+    "año": 2012,
+    "mes": 9,
+    "exportaciones_musd": 254366.984375,
+    "importaciones_musd": 4639.759765625,
+    "balanza_musd": 249727.234375
+  },
+  {
+    "periodo": "2012-10",
+    "año": 2012,
+    "mes": 10,
+    "exportaciones_musd": 5352.72021484375,
+    "importaciones_musd": 5131.5400390625,
+    "balanza_musd": 221.17999267578125
+  },
+  {
+    "periodo": "2012-11",
+    "año": 2012,
+    "mes": 11,
+    "exportaciones_musd": 244951.078125,
+    "importaciones_musd": 5083.330078125,
+    "balanza_musd": 239867.734375
+  },
+  {
+    "periodo": "2012-12",
+    "año": 2012,
+    "mes": 12,
+    "exportaciones_musd": 258076.21875,
+    "importaciones_musd": 4497.77001953125,
+    "balanza_musd": 253578.4375
+  },
+  {
+    "periodo": "2013-01",
+    "año": 2013,
+    "mes": 1,
+    "exportaciones_musd": 256778.5625,
+    "importaciones_musd": 5136.10009765625,
+    "balanza_musd": 251642.453125
+  },
+  {
+    "periodo": "2013-02",
+    "año": 2013,
+    "mes": 2,
+    "exportaciones_musd": 237646.59375,
+    "importaciones_musd": 4451.2998046875,
+    "balanza_musd": 233195.296875
+  },
+  {
+    "periodo": "2013-03",
+    "año": 2013,
+    "mes": 3,
+    "exportaciones_musd": 4571.81982421875,
+    "importaciones_musd": 4443.81982421875,
+    "balanza_musd": 128.0
+  },
+  {
+    "periodo": "2013-04",
+    "año": 2013,
+    "mes": 4,
+    "exportaciones_musd": 257904.078125,
+    "importaciones_musd": 5117.72021484375,
+    "balanza_musd": 252786.359375
+  },
+  {
+    "periodo": "2013-05",
+    "año": 2013,
+    "mes": 5,
+    "exportaciones_musd": 294169.125,
+    "importaciones_musd": 5129.56005859375,
+    "balanza_musd": 289039.5625
+  },
+  {
+    "periodo": "2013-06",
+    "año": 2013,
+    "mes": 6,
+    "exportaciones_musd": 267724.90625,
+    "importaciones_musd": 4263.39990234375,
+    "balanza_musd": 263461.53125
+  },
+  {
+    "periodo": "2013-07",
+    "año": 2013,
+    "mes": 7,
+    "exportaciones_musd": 254539.28125,
+    "importaciones_musd": 5062.830078125,
+    "balanza_musd": 249476.453125
+  },
+  {
+    "periodo": "2013-08",
+    "año": 2013,
+    "mes": 8,
+    "exportaciones_musd": 268543.5,
+    "importaciones_musd": 4925.240234375,
+    "balanza_musd": 263618.25
+  },
+  {
+    "periodo": "2013-09",
+    "año": 2013,
+    "mes": 9,
+    "exportaciones_musd": 248617.09375,
+    "importaciones_musd": 5101.35986328125,
+    "balanza_musd": 243515.734375
+  },
+  {
+    "periodo": "2013-10",
+    "año": 2013,
+    "mes": 10,
+    "exportaciones_musd": 314657.375,
+    "importaciones_musd": 5297.4501953125,
+    "balanza_musd": 309359.9375
+  },
+  {
+    "periodo": "2013-11",
+    "año": 2013,
+    "mes": 11,
+    "exportaciones_musd": 253283.953125,
+    "importaciones_musd": 4974.4599609375,
+    "balanza_musd": 248309.515625
+  },
+  {
+    "periodo": "2013-12",
+    "año": 2013,
+    "mes": 12,
+    "exportaciones_musd": 266179.40625,
+    "importaciones_musd": 4891.18017578125,
+    "balanza_musd": 261288.21875
+  },
+  {
+    "periodo": "2014-01",
+    "año": 2014,
+    "mes": 1,
+    "exportaciones_musd": 396510.96875,
+    "importaciones_musd": 4792.10986328125,
+    "balanza_musd": 391718.84375
+  },
+  {
+    "periodo": "2014-02",
+    "año": 2014,
+    "mes": 2,
+    "exportaciones_musd": 203776.859375,
+    "importaciones_musd": 4948.31982421875,
+    "balanza_musd": 198828.546875
+  },
+  {
+    "periodo": "2014-03",
+    "año": 2014,
+    "mes": 3,
+    "exportaciones_musd": 339634.0,
+    "importaciones_musd": 4854.31005859375,
+    "balanza_musd": 334779.6875
+  },
+  {
+    "periodo": "2014-04",
+    "año": 2014,
+    "mes": 4,
+    "exportaciones_musd": 229907.125,
+    "importaciones_musd": 5394.52001953125,
+    "balanza_musd": 224512.59375
+  },
+  {
+    "periodo": "2014-05",
+    "año": 2014,
+    "mes": 5,
+    "exportaciones_musd": 280547.5,
+    "importaciones_musd": 5367.1201171875,
+    "balanza_musd": 275180.375
+  },
+  {
+    "periodo": "2014-06",
+    "año": 2014,
+    "mes": 6,
+    "exportaciones_musd": 238639.265625,
+    "importaciones_musd": 4881.39013671875,
+    "balanza_musd": 233757.875
+  },
+  {
+    "periodo": "2014-07",
+    "año": 2014,
+    "mes": 7,
+    "exportaciones_musd": 261678.3125,
+    "importaciones_musd": 6030.9501953125,
+    "balanza_musd": 255647.359375
+  },
+  {
+    "periodo": "2014-08",
+    "año": 2014,
+    "mes": 8,
+    "exportaciones_musd": 274400.90625,
+    "importaciones_musd": 4850.2900390625,
+    "balanza_musd": 269550.625
+  },
+  {
+    "periodo": "2014-09",
+    "año": 2014,
+    "mes": 9,
+    "exportaciones_musd": 404345.75,
+    "importaciones_musd": 5738.2900390625,
+    "balanza_musd": 398607.4375
+  },
+  {
+    "periodo": "2014-10",
+    "año": 2014,
+    "mes": 10,
+    "exportaciones_musd": 230757.625,
+    "importaciones_musd": 5786.7099609375,
+    "balanza_musd": 224970.9375
+  },
+  {
+    "periodo": "2014-11",
+    "año": 2014,
+    "mes": 11,
+    "exportaciones_musd": 307867.96875,
+    "importaciones_musd": 5312.66015625,
+    "balanza_musd": 302555.34375
+  },
+  {
+    "periodo": "2014-12",
+    "año": 2014,
+    "mes": 12,
+    "exportaciones_musd": 211765.0625,
+    "importaciones_musd": 5432.52978515625,
+    "balanza_musd": 206332.546875
+  },
+  {
+    "periodo": "2015-01",
+    "año": 2015,
+    "mes": 1,
+    "exportaciones_musd": 220067.78125,
+    "importaciones_musd": 4844.1201171875,
+    "balanza_musd": 215223.640625
+  },
+  {
+    "periodo": "2015-02",
+    "año": 2015,
+    "mes": 2,
+    "exportaciones_musd": 176261.265625,
+    "importaciones_musd": 4519.830078125,
+    "balanza_musd": 171741.4375
+  },
+  {
+    "periodo": "2015-03",
+    "año": 2015,
+    "mes": 3,
+    "exportaciones_musd": 230198.546875,
+    "importaciones_musd": 4584.89990234375,
+    "balanza_musd": 225613.625
+  },
+  {
+    "periodo": "2015-04",
+    "año": 2015,
+    "mes": 4,
+    "exportaciones_musd": 259665.578125,
+    "importaciones_musd": 4404.990234375,
+    "balanza_musd": 255260.59375
+  },
+  {
+    "periodo": "2015-05",
+    "año": 2015,
+    "mes": 5,
+    "exportaciones_musd": 185578.140625,
+    "importaciones_musd": 4372.759765625,
+    "balanza_musd": 181205.40625
+  },
+  {
+    "periodo": "2015-06",
+    "año": 2015,
+    "mes": 6,
+    "exportaciones_musd": 230622.6875,
+    "importaciones_musd": 4155.830078125,
+    "balanza_musd": 226466.859375
+  },
+  {
+    "periodo": "2015-07",
+    "año": 2015,
+    "mes": 7,
+    "exportaciones_musd": 234663.8125,
+    "importaciones_musd": 4898.240234375,
+    "balanza_musd": 229765.5625
+  },
+  {
+    "periodo": "2015-08",
+    "año": 2015,
+    "mes": 8,
+    "exportaciones_musd": 2868.449951171875,
+    "importaciones_musd": 4355.60009765625,
+    "balanza_musd": -1487.1500244140625
+  },
+  {
+    "periodo": "2015-09",
+    "año": 2015,
+    "mes": 9,
+    "exportaciones_musd": 201771.859375,
+    "importaciones_musd": 4442.27978515625,
+    "balanza_musd": 197329.5625
+  },
+  {
+    "periodo": "2015-10",
+    "año": 2015,
+    "mes": 10,
+    "exportaciones_musd": 2815.52001953125,
+    "importaciones_musd": 4432.169921875,
+    "balanza_musd": -1616.6500244140625
+  },
+  {
+    "periodo": "2015-11",
+    "año": 2015,
+    "mes": 11,
+    "exportaciones_musd": 146574.78125,
+    "importaciones_musd": 4170.169921875,
+    "balanza_musd": 142404.609375
+  },
+  {
+    "periodo": "2015-12",
+    "año": 2015,
+    "mes": 12,
+    "exportaciones_musd": 2588.989990234375,
+    "importaciones_musd": 4083.6201171875,
+    "balanza_musd": -1494.6300048828125
+  },
+  {
+    "periodo": "2016-01",
+    "año": 2016,
+    "mes": 1,
+    "exportaciones_musd": 1919.050048828125,
+    "importaciones_musd": 3473.419921875,
+    "balanza_musd": -1554.3699951171875
+  },
+  {
+    "periodo": "2016-02",
+    "año": 2016,
+    "mes": 2,
+    "exportaciones_musd": 2328.719970703125,
+    "importaciones_musd": 3400.969970703125,
+    "balanza_musd": -1072.25
+  },
+  {
+    "periodo": "2016-03",
+    "año": 2016,
+    "mes": 3,
+    "exportaciones_musd": 2335.0,
+    "importaciones_musd": 3523.570068359375,
+    "balanza_musd": -1188.5699462890625
+  },
+  {
+    "periodo": "2016-04",
+    "año": 2016,
+    "mes": 4,
+    "exportaciones_musd": 2463.7900390625,
+    "importaciones_musd": 3624.550048828125,
+    "balanza_musd": -1160.760009765625
+  },
+  {
+    "periodo": "2016-05",
+    "año": 2016,
+    "mes": 5,
+    "exportaciones_musd": 2751.469970703125,
+    "importaciones_musd": 3507.27001953125,
+    "balanza_musd": -755.7999877929688
+  },
+  {
+    "periodo": "2016-06",
+    "año": 2016,
+    "mes": 6,
+    "exportaciones_musd": 159153.046875,
+    "importaciones_musd": 3591.090087890625,
+    "balanza_musd": 155561.953125
+  },
+  {
+    "periodo": "2016-07",
+    "año": 2016,
+    "mes": 7,
+    "exportaciones_musd": 112500.8203125,
+    "importaciones_musd": 3286.300048828125,
+    "balanza_musd": 109214.5234375
+  },
+  {
+    "periodo": "2016-08",
+    "año": 2016,
+    "mes": 8,
+    "exportaciones_musd": 3044.3798828125,
+    "importaciones_musd": 4124.9501953125,
+    "balanza_musd": -1080.5699462890625
+  },
+  {
+    "periodo": "2016-09",
+    "año": 2016,
+    "mes": 9,
+    "exportaciones_musd": 149288.09375,
+    "importaciones_musd": 3870.719970703125,
+    "balanza_musd": 145417.375
+  },
+  {
+    "periodo": "2016-10",
+    "año": 2016,
+    "mes": 10,
+    "exportaciones_musd": 2770.010009765625,
+    "importaciones_musd": 3530.139892578125,
+    "balanza_musd": -760.1199951171875
+  },
+  {
+    "periodo": "2016-11",
+    "año": 2016,
+    "mes": 11,
+    "exportaciones_musd": 2833.6201171875,
+    "importaciones_musd": 4069.909912109375,
+    "balanza_musd": -1236.2900390625
+  },
+  {
+    "periodo": "2016-12",
+    "año": 2016,
+    "mes": 12,
+    "exportaciones_musd": 3477.090087890625,
+    "importaciones_musd": 3963.159912109375,
+    "balanza_musd": -486.07000732421875
+  },
+  {
+    "periodo": "2017-01",
+    "año": 2017,
+    "mes": 1,
+    "exportaciones_musd": 173702.59375,
+    "importaciones_musd": 3446.219970703125,
+    "balanza_musd": 170256.40625
+  },
+  {
+    "periodo": "2017-02",
+    "año": 2017,
+    "mes": 2,
+    "exportaciones_musd": 2716.02001953125,
+    "importaciones_musd": 3545.469970703125,
+    "balanza_musd": -829.4500122070312
+  },
+  {
+    "periodo": "2017-03",
+    "año": 2017,
+    "mes": 3,
+    "exportaciones_musd": 3300.419921875,
+    "importaciones_musd": 4023.830078125,
+    "balanza_musd": -723.4099731445312
+  },
+  {
+    "periodo": "2017-04",
+    "año": 2017,
+    "mes": 4,
+    "exportaciones_musd": 2697.989990234375,
+    "importaciones_musd": 3899.60009765625,
+    "balanza_musd": -1201.5999755859375
+  },
+  {
+    "periodo": "2017-05",
+    "año": 2017,
+    "mes": 5,
+    "exportaciones_musd": 3505.43994140625,
+    "importaciones_musd": 3579.080078125,
+    "balanza_musd": -73.63999938964844
+  },
+  {
+    "periodo": "2017-06",
+    "año": 2017,
+    "mes": 6,
+    "exportaciones_musd": 2895.610107421875,
+    "importaciones_musd": 3635.5,
+    "balanza_musd": -739.8900146484375
+  },
+  {
+    "periodo": "2017-07",
+    "año": 2017,
+    "mes": 7,
+    "exportaciones_musd": 3125.47998046875,
+    "importaciones_musd": 3632.27001953125,
+    "balanza_musd": -506.7900085449219
+  },
+  {
+    "periodo": "2017-08",
+    "año": 2017,
+    "mes": 8,
+    "exportaciones_musd": 3191.60009765625,
+    "importaciones_musd": 4072.469970703125,
+    "balanza_musd": -880.8800048828125
+  },
+  {
+    "periodo": "2017-09",
+    "año": 2017,
+    "mes": 9,
+    "exportaciones_musd": 3389.679931640625,
+    "importaciones_musd": 3608.8701171875,
+    "balanza_musd": -219.19000244140625
+  },
+  {
+    "periodo": "2017-10",
+    "año": 2017,
+    "mes": 10,
+    "exportaciones_musd": 3277.52001953125,
+    "importaciones_musd": 3832.110107421875,
+    "balanza_musd": -554.5900268554688
+  },
+  {
+    "periodo": "2017-11",
+    "año": 2017,
+    "mes": 11,
+    "exportaciones_musd": 3122.239990234375,
+    "importaciones_musd": 3862.39990234375,
+    "balanza_musd": -740.1599731445312
+  },
+  {
+    "periodo": "2017-12",
+    "año": 2017,
+    "mes": 12,
+    "exportaciones_musd": 4014.820068359375,
+    "importaciones_musd": 3551.25,
+    "balanza_musd": 463.57000732421875
+  },
+  {
+    "periodo": "2018-01",
+    "año": 2018,
+    "mes": 1,
+    "exportaciones_musd": 3324.889892578125,
+    "importaciones_musd": 0.0,
+    "balanza_musd": 3324.889892578125
+  },
+  {
+    "periodo": "2018-02",
+    "año": 2018,
+    "mes": 2,
+    "exportaciones_musd": 3027.60009765625,
+    "importaciones_musd": 3565.6201171875,
+    "balanza_musd": -538.010009765625
+  },
+  {
+    "periodo": "2018-03",
+    "año": 2018,
+    "mes": 3,
+    "exportaciones_musd": 3365.1201171875,
+    "importaciones_musd": 3839.739990234375,
+    "balanza_musd": -474.6199951171875
+  },
+  {
+    "periodo": "2018-04",
+    "año": 2018,
+    "mes": 4,
+    "exportaciones_musd": 3786.5400390625,
+    "importaciones_musd": 0.0,
+    "balanza_musd": 3786.5400390625
+  },
+  {
+    "periodo": "2018-05",
+    "año": 2018,
+    "mes": 5,
+    "exportaciones_musd": 3719.409912109375,
+    "importaciones_musd": 4427.1201171875,
+    "balanza_musd": -707.7100219726562
+  },
+  {
+    "periodo": "2018-06",
+    "año": 2018,
+    "mes": 6,
+    "exportaciones_musd": 3331.929931640625,
+    "importaciones_musd": 4157.169921875,
+    "balanza_musd": -825.239990234375
+  },
+  {
+    "periodo": "2018-07",
+    "año": 2018,
+    "mes": 7,
+    "exportaciones_musd": 3632.06005859375,
+    "importaciones_musd": 4262.91015625,
+    "balanza_musd": -630.8499755859375
+  },
+  {
+    "periodo": "2018-08",
+    "año": 2018,
+    "mes": 8,
+    "exportaciones_musd": 3684.39990234375,
+    "importaciones_musd": 4502.52978515625,
+    "balanza_musd": -818.1300048828125
+  },
+  {
+    "periodo": "2018-09",
+    "año": 2018,
+    "mes": 9,
+    "exportaciones_musd": 3512.840087890625,
+    "importaciones_musd": 3964.14990234375,
+    "balanza_musd": -451.30999755859375
+  },
+  {
+    "periodo": "2018-10",
+    "año": 2018,
+    "mes": 10,
+    "exportaciones_musd": 3768.669921875,
+    "importaciones_musd": 5092.72021484375,
+    "balanza_musd": -1324.06005859375
+  },
+  {
+    "periodo": "2018-11",
+    "año": 2018,
+    "mes": 11,
+    "exportaciones_musd": 3343.510009765625,
+    "importaciones_musd": 4392.41015625,
+    "balanza_musd": -1048.9000244140625
+  },
+  {
+    "periodo": "2018-12",
+    "año": 2018,
+    "mes": 12,
+    "exportaciones_musd": 3407.820068359375,
+    "importaciones_musd": 4107.60009765625,
+    "balanza_musd": -699.780029296875
+  },
+  {
+    "periodo": "2019-01",
+    "año": 2019,
+    "mes": 1,
+    "exportaciones_musd": 3066.110107421875,
+    "importaciones_musd": 4255.02001953125,
+    "balanza_musd": -1188.9100341796875
+  },
+  {
+    "periodo": "2019-02",
+    "año": 2019,
+    "mes": 2,
+    "exportaciones_musd": 190031.875,
+    "importaciones_musd": 3923.780029296875,
+    "balanza_musd": 186108.078125
+  },
+  {
+    "periodo": "2019-03",
+    "año": 2019,
+    "mes": 3,
+    "exportaciones_musd": 218034.625,
+    "importaciones_musd": 4260.580078125,
+    "balanza_musd": 213774.046875
+  },
+  {
+    "periodo": "2019-04",
+    "año": 2019,
+    "mes": 4,
+    "exportaciones_musd": 242147.015625,
+    "importaciones_musd": 4485.009765625,
+    "balanza_musd": 237662.015625
+  },
+  {
+    "periodo": "2019-05",
+    "año": 2019,
+    "mes": 5,
+    "exportaciones_musd": 283628.0,
+    "importaciones_musd": 0.0,
+    "balanza_musd": 283628.0
+  },
+  {
+    "periodo": "2019-06",
+    "año": 2019,
+    "mes": 6,
+    "exportaciones_musd": 228662.4375,
+    "importaciones_musd": 3893.8701171875,
+    "balanza_musd": 224768.578125
+  },
+  {
+    "periodo": "2019-07",
+    "año": 2019,
+    "mes": 7,
+    "exportaciones_musd": 224331.078125,
+    "importaciones_musd": 4449.31005859375,
+    "balanza_musd": 219881.765625
+  },
+  {
+    "periodo": "2019-08",
+    "año": 2019,
+    "mes": 8,
+    "exportaciones_musd": 252591.6875,
+    "importaciones_musd": 4836.22998046875,
+    "balanza_musd": 247755.4375
+  },
+  {
+    "periodo": "2019-09",
+    "año": 2019,
+    "mes": 9,
+    "exportaciones_musd": 232388.546875,
+    "importaciones_musd": 4117.0,
+    "balanza_musd": 228271.546875
+  },
+  {
+    "periodo": "2019-10",
+    "año": 2019,
+    "mes": 10,
+    "exportaciones_musd": 240936.6875,
+    "importaciones_musd": 4245.31982421875,
+    "balanza_musd": 236691.359375
+  },
+  {
+    "periodo": "2019-11",
+    "año": 2019,
+    "mes": 11,
+    "exportaciones_musd": 220765.984375,
+    "importaciones_musd": 4711.22998046875,
+    "balanza_musd": 216054.765625
+  },
+  {
+    "periodo": "2019-12",
+    "año": 2019,
+    "mes": 12,
+    "exportaciones_musd": 249119.15625,
+    "importaciones_musd": 4043.22998046875,
+    "balanza_musd": 245075.9375
+  },
+  {
+    "periodo": "2020-01",
+    "año": 2020,
+    "mes": 1,
+    "exportaciones_musd": 268058.21875,
+    "importaciones_musd": 4291.18994140625,
+    "balanza_musd": 263767.03125
+  },
+  {
+    "periodo": "2020-02",
+    "año": 2020,
+    "mes": 2,
+    "exportaciones_musd": 216351.5625,
+    "importaciones_musd": 3900.60009765625,
+    "balanza_musd": 212450.953125
+  },
+  {
+    "periodo": "2020-03",
+    "año": 2020,
+    "mes": 3,
+    "exportaciones_musd": 177237.015625,
+    "importaciones_musd": 3532.719970703125,
+    "balanza_musd": 173704.296875
+  },
+  {
+    "periodo": "2020-04",
+    "año": 2020,
+    "mes": 4,
+    "exportaciones_musd": 1864.239990234375,
+    "importaciones_musd": 3075.409912109375,
+    "balanza_musd": -1211.1700439453125
+  },
+  {
+    "periodo": "2020-05",
+    "año": 2020,
+    "mes": 5,
+    "exportaciones_musd": 2221.169921875,
+    "importaciones_musd": 2850.3798828125,
+    "balanza_musd": -629.2100219726562
+  },
+  {
+    "periodo": "2020-06",
+    "año": 2020,
+    "mes": 6,
+    "exportaciones_musd": 2289.47998046875,
+    "importaciones_musd": 2873.93994140625,
+    "balanza_musd": -584.4500122070312
+  },
+  {
+    "periodo": "2020-07",
+    "año": 2020,
+    "mes": 7,
+    "exportaciones_musd": 2551.989990234375,
+    "importaciones_musd": 3607.919921875,
+    "balanza_musd": -1055.9300537109375
+  },
+  {
+    "periodo": "2020-08",
+    "año": 2020,
+    "mes": 8,
+    "exportaciones_musd": 180686.546875,
+    "importaciones_musd": 3537.7900390625,
+    "balanza_musd": 177148.734375
+  },
+  {
+    "periodo": "2020-09",
+    "año": 2020,
+    "mes": 9,
+    "exportaciones_musd": 178237.84375,
+    "importaciones_musd": 3448.27001953125,
+    "balanza_musd": 174789.578125
+  },
+  {
+    "periodo": "2020-10",
+    "año": 2020,
+    "mes": 10,
+    "exportaciones_musd": 169510.3125,
+    "importaciones_musd": 3670.4599609375,
+    "balanza_musd": 165839.84375
+  },
+  {
+    "periodo": "2020-11",
+    "año": 2020,
+    "mes": 11,
+    "exportaciones_musd": 164397.21875,
+    "importaciones_musd": 4157.72021484375,
+    "balanza_musd": 160239.5
+  },
+  {
+    "periodo": "2020-12",
+    "año": 2020,
+    "mes": 12,
+    "exportaciones_musd": 198901.15625,
+    "importaciones_musd": 4094.5400390625,
+    "balanza_musd": 194806.59375
+  },
+  {
+    "periodo": "2021-01",
+    "año": 2021,
+    "mes": 1,
+    "exportaciones_musd": 196465.59375,
+    "importaciones_musd": 3767.93994140625,
+    "balanza_musd": 192697.65625
+  },
+  {
+    "periodo": "2021-02",
+    "año": 2021,
+    "mes": 2,
+    "exportaciones_musd": 232673.625,
+    "importaciones_musd": 3836.239990234375,
+    "balanza_musd": 228837.40625
+  },
+  {
+    "periodo": "2021-03",
+    "año": 2021,
+    "mes": 3,
+    "exportaciones_musd": 267724.375,
+    "importaciones_musd": 4859.2998046875,
+    "balanza_musd": 262865.0625
+  },
+  {
+    "periodo": "2021-04",
+    "año": 2021,
+    "mes": 4,
+    "exportaciones_musd": 240130.59375,
+    "importaciones_musd": 0.0,
+    "balanza_musd": 240130.59375
+  },
+  {
+    "periodo": "2021-05",
+    "año": 2021,
+    "mes": 5,
+    "exportaciones_musd": 260546.375,
+    "importaciones_musd": 4324.509765625,
+    "balanza_musd": 256221.875
+  },
+  {
+    "periodo": "2021-06",
+    "año": 2021,
+    "mes": 6,
+    "exportaciones_musd": 225688.40625,
+    "importaciones_musd": 4852.72021484375,
+    "balanza_musd": 220835.6875
+  },
+  {
+    "periodo": "2021-07",
+    "año": 2021,
+    "mes": 7,
+    "exportaciones_musd": 275711.28125,
+    "importaciones_musd": 4738.2900390625,
+    "balanza_musd": 270973.0
+  },
+  {
+    "periodo": "2021-08",
+    "año": 2021,
+    "mes": 8,
+    "exportaciones_musd": 284673.25,
+    "importaciones_musd": 5266.02001953125,
+    "balanza_musd": 279407.21875
+  },
+  {
+    "periodo": "2021-09",
+    "año": 2021,
+    "mes": 9,
+    "exportaciones_musd": 303217.375,
+    "importaciones_musd": 5669.9599609375,
+    "balanza_musd": 297547.40625
+  },
+  {
+    "periodo": "2021-10",
+    "año": 2021,
+    "mes": 10,
+    "exportaciones_musd": 304819.8125,
+    "importaciones_musd": 5739.27978515625,
+    "balanza_musd": 299080.5
+  },
+  {
+    "periodo": "2021-11",
+    "año": 2021,
+    "mes": 11,
+    "exportaciones_musd": 338903.375,
+    "importaciones_musd": 6468.06005859375,
+    "balanza_musd": 332435.28125
+  },
+  {
+    "periodo": "2021-12",
+    "año": 2021,
+    "mes": 12,
+    "exportaciones_musd": 354759.15625,
+    "importaciones_musd": 6132.35986328125,
+    "balanza_musd": 348626.8125
+  },
+  {
+    "periodo": "2022-01",
+    "año": 2022,
+    "mes": 1,
+    "exportaciones_musd": 310127.59375,
+    "importaciones_musd": 5998.77978515625,
+    "balanza_musd": 304128.8125
+  },
+  {
+    "periodo": "2022-02",
+    "año": 2022,
+    "mes": 2,
+    "exportaciones_musd": 347110.75,
+    "importaciones_musd": 5730.2998046875,
+    "balanza_musd": 341380.4375
+  },
+  {
+    "periodo": "2022-03",
+    "año": 2022,
+    "mes": 3,
+    "exportaciones_musd": 359865.0,
+    "importaciones_musd": 6968.7001953125,
+    "balanza_musd": 352896.28125
+  },
+  {
+    "periodo": "2022-04",
+    "año": 2022,
+    "mes": 4,
+    "exportaciones_musd": 465340.4375,
+    "importaciones_musd": 0.0,
+    "balanza_musd": 465340.4375
+  },
+  {
+    "periodo": "2022-05",
+    "año": 2022,
+    "mes": 5,
+    "exportaciones_musd": 384376.625,
+    "importaciones_musd": 6739.669921875,
+    "balanza_musd": 377637.0
+  },
+  {
+    "periodo": "2022-06",
+    "año": 2022,
+    "mes": 6,
+    "exportaciones_musd": 445985.8125,
+    "importaciones_musd": 12488.0595703125,
+    "balanza_musd": 433497.8125
+  },
+  {
+    "periodo": "2022-07",
+    "año": 2022,
+    "mes": 7,
+    "exportaciones_musd": 496295.625,
+    "importaciones_musd": 6794.93017578125,
+    "balanza_musd": 489500.71875
+  },
+  {
+    "periodo": "2022-08",
+    "año": 2022,
+    "mes": 8,
+    "exportaciones_musd": 324591.25,
+    "importaciones_musd": 7218.259765625,
+    "balanza_musd": 317373.0
+  },
+  {
+    "periodo": "2022-09",
+    "año": 2022,
+    "mes": 9,
+    "exportaciones_musd": 397153.625,
+    "importaciones_musd": 6608.8701171875,
+    "balanza_musd": 390544.8125
+  },
+  {
+    "periodo": "2022-10",
+    "año": 2022,
+    "mes": 10,
+    "exportaciones_musd": 341068.53125,
+    "importaciones_musd": 6049.3798828125,
+    "balanza_musd": 335019.1875
+  },
+  {
+    "periodo": "2022-11",
+    "año": 2022,
+    "mes": 11,
+    "exportaciones_musd": 372548.03125,
+    "importaciones_musd": 5958.669921875,
+    "balanza_musd": 366589.375
+  },
+  {
+    "periodo": "2022-12",
+    "año": 2022,
+    "mes": 12,
+    "exportaciones_musd": 4642.080078125,
+    "importaciones_musd": 5765.22021484375,
+    "balanza_musd": -1123.1400146484375
+  },
+  {
+    "periodo": "2023-01",
+    "año": 2023,
+    "mes": 1,
+    "exportaciones_musd": 3733.18994140625,
+    "importaciones_musd": 5425.990234375,
+    "balanza_musd": -1692.800048828125
+  },
+  {
+    "periodo": "2023-02",
+    "año": 2023,
+    "mes": 2,
+    "exportaciones_musd": 4238.68994140625,
+    "importaciones_musd": 4970.39990234375,
+    "balanza_musd": -731.7100219726562
+  },
+  {
+    "periodo": "2023-03",
+    "año": 2023,
+    "mes": 3,
+    "exportaciones_musd": 4465.3701171875,
+    "importaciones_musd": 5783.5498046875,
+    "balanza_musd": -1318.1800537109375
+  },
+  {
+    "periodo": "2023-04",
+    "año": 2023,
+    "mes": 4,
+    "exportaciones_musd": 3739.2099609375,
+    "importaciones_musd": 4858.81005859375,
+    "balanza_musd": -1119.5899658203125
+  },
+  {
+    "periodo": "2023-05",
+    "año": 2023,
+    "mes": 5,
+    "exportaciones_musd": 4497.85986328125,
+    "importaciones_musd": 0.0,
+    "balanza_musd": 4497.85986328125
+  },
+  {
+    "periodo": "2023-06",
+    "año": 2023,
+    "mes": 6,
+    "exportaciones_musd": 4021.419921875,
+    "importaciones_musd": 4933.830078125,
+    "balanza_musd": -912.4099731445312
+  },
+  {
+    "periodo": "2023-07",
+    "año": 2023,
+    "mes": 7,
+    "exportaciones_musd": 4167.240234375,
+    "importaciones_musd": 37.470001220703125,
+    "balanza_musd": 4129.77001953125
+  },
+  {
+    "periodo": "2023-08",
+    "año": 2023,
+    "mes": 8,
+    "exportaciones_musd": 3943.89990234375,
+    "importaciones_musd": 5200.68017578125,
+    "balanza_musd": -1256.780029296875
+  },
+  {
+    "periodo": "2023-09",
+    "año": 2023,
+    "mes": 9,
+    "exportaciones_musd": 4167.72021484375,
+    "importaciones_musd": 4870.490234375,
+    "balanza_musd": -702.77001953125
+  },
+  {
+    "periodo": "2023-10",
+    "año": 2023,
+    "mes": 10,
+    "exportaciones_musd": 4152.14990234375,
+    "importaciones_musd": 0.0,
+    "balanza_musd": 4152.14990234375
+  },
+  {
+    "periodo": "2023-11",
+    "año": 2023,
+    "mes": 11,
+    "exportaciones_musd": 4194.6298828125,
+    "importaciones_musd": 5018.06982421875,
+    "balanza_musd": -823.4400024414062
+  },
+  {
+    "periodo": "2023-12",
+    "año": 2023,
+    "mes": 12,
+    "exportaciones_musd": 4447.72998046875,
+    "importaciones_musd": 5199.31005859375,
+    "balanza_musd": -751.5800170898438
+  },
+  {
+    "periodo": "2024-01",
+    "año": 2024,
+    "mes": 1,
+    "exportaciones_musd": 3621.1201171875,
+    "importaciones_musd": 4913.81982421875,
+    "balanza_musd": -1292.699951171875
+  },
+  {
+    "periodo": "2024-02",
+    "año": 2024,
+    "mes": 2,
+    "exportaciones_musd": 3810.949951171875,
+    "importaciones_musd": 4713.330078125,
+    "balanza_musd": -902.3800048828125
+  },
+  {
+    "periodo": "2024-03",
+    "año": 2024,
+    "mes": 3,
+    "exportaciones_musd": 3866.949951171875,
+    "importaciones_musd": 34.58000183105469,
+    "balanza_musd": 3832.360107421875
+  },
+  {
+    "periodo": "2024-04",
+    "año": 2024,
+    "mes": 4,
+    "exportaciones_musd": 4408.830078125,
+    "importaciones_musd": 41.5099983215332,
+    "balanza_musd": 4367.31982421875
+  },
+  {
+    "periodo": "2024-05",
+    "año": 2024,
+    "mes": 5,
+    "exportaciones_musd": 4450.91015625,
+    "importaciones_musd": 5446.25,
+    "balanza_musd": -995.3300170898438
+  },
+  {
+    "periodo": "2024-06",
+    "año": 2024,
+    "mes": 6,
+    "exportaciones_musd": 3859.330078125,
+    "importaciones_musd": 4567.39990234375,
+    "balanza_musd": -708.0700073242188
+  },
+  {
+    "periodo": "2024-07",
+    "año": 2024,
+    "mes": 7,
+    "exportaciones_musd": 4618.27978515625,
+    "importaciones_musd": 5506.39013671875,
+    "balanza_musd": -888.1099853515625
+  },
+  {
+    "periodo": "2024-08",
+    "año": 2024,
+    "mes": 8,
+    "exportaciones_musd": 3845.7099609375,
+    "importaciones_musd": 43.310001373291016,
+    "balanza_musd": 3802.39990234375
+  },
+  {
+    "periodo": "2024-09",
+    "año": 2024,
+    "mes": 9,
+    "exportaciones_musd": 4158.68994140625,
+    "importaciones_musd": 5095.85009765625,
+    "balanza_musd": -937.1599731445312
+  },
+  {
+    "periodo": "2024-10",
+    "año": 2024,
+    "mes": 10,
+    "exportaciones_musd": 4309.14013671875,
+    "importaciones_musd": 44.209999084472656,
+    "balanza_musd": 4264.93017578125
+  },
+  {
+    "periodo": "2024-11",
+    "año": 2024,
+    "mes": 11,
+    "exportaciones_musd": 4126.10009765625,
+    "importaciones_musd": 5797.080078125,
+    "balanza_musd": -1670.97998046875
+  },
+  {
+    "periodo": "2024-12",
+    "año": 2024,
+    "mes": 12,
+    "exportaciones_musd": 4480.509765625,
+    "importaciones_musd": 5496.419921875,
+    "balanza_musd": -1015.9199829101562
+  },
+  {
+    "periodo": "2025-01",
+    "año": 2025,
+    "mes": 1,
+    "exportaciones_musd": 3776.719970703125,
+    "importaciones_musd": 40.220001220703125,
+    "balanza_musd": 3736.5
+  },
+  {
+    "periodo": "2025-02",
+    "año": 2025,
+    "mes": 2,
+    "exportaciones_musd": 3779.090087890625,
+    "importaciones_musd": 39.970001220703125,
+    "balanza_musd": 3739.1201171875
+  },
+  {
+    "periodo": "2025-03",
+    "año": 2025,
+    "mes": 3,
+    "exportaciones_musd": 4397.81982421875,
+    "importaciones_musd": 5431.25,
+    "balanza_musd": -1033.4300537109375
+  },
+  {
+    "periodo": "2025-04",
+    "año": 2025,
+    "mes": 4,
+    "exportaciones_musd": 4119.39990234375,
+    "importaciones_musd": 5698.68017578125,
+    "balanza_musd": -1579.280029296875
+  },
+  {
+    "periodo": "2025-05",
+    "año": 2025,
+    "mes": 5,
+    "exportaciones_musd": 4357.990234375,
+    "importaciones_musd": 43.619998931884766,
+    "balanza_musd": 4314.35986328125
+  },
+  {
+    "periodo": "2025-06",
+    "año": 2025,
+    "mes": 6,
+    "exportaciones_musd": 3957.669921875,
+    "importaciones_musd": 39.18000030517578,
+    "balanza_musd": 3918.489990234375
+  },
+  {
+    "periodo": "2025-07",
+    "año": 2025,
+    "mes": 7,
+    "exportaciones_musd": 4427.47998046875,
+    "importaciones_musd": 49.20000076293945,
+    "balanza_musd": 4378.27978515625
+  },
+  {
+    "periodo": "2025-08",
+    "año": 2025,
+    "mes": 8,
+    "exportaciones_musd": 3871.2099609375,
+    "importaciones_musd": 43.68000030517578,
+    "balanza_musd": 3827.530029296875
+  },
+  {
+    "periodo": "2025-09",
+    "año": 2025,
+    "mes": 9,
+    "exportaciones_musd": 4650.7001953125,
+    "importaciones_musd": 47.47999954223633,
+    "balanza_musd": 4603.22998046875
+  },
+  {
+    "periodo": "2025-10",
+    "año": 2025,
+    "mes": 10,
+    "exportaciones_musd": 4299.14990234375,
+    "importaciones_musd": 6397.72021484375,
+    "balanza_musd": -2098.570068359375
+  },
+  {
+    "periodo": "2025-11",
+    "año": 2025,
+    "mes": 11,
+    "exportaciones_musd": 4020.469970703125,
+    "importaciones_musd": 42.52000045776367,
+    "balanza_musd": 3977.949951171875
+  },
+  {
+    "periodo": "2025-12",
+    "año": 2025,
+    "mes": 12,
+    "exportaciones_musd": 4540.52001953125,
+    "importaciones_musd": 41.810001373291016,
+    "balanza_musd": 4498.7099609375
+  }
+]
